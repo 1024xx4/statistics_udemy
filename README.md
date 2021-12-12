@@ -29,3 +29,18 @@ sns.catplot(x, data, kind='count')
 # x: x 軸にする Category 変数の名前
 # data: Category 変数を含む DataFrame
 ```
+
+# 記述統計と推測統計
+## 記述統計
+Data の特徴を記述する（例: 平均値, 中央値）
+- 記述統計は、標本（sample）に興味がある。  
+<small>
+例). アンケート調査を実施した結果、「人生幸せだ」と回答をした人は70%だった。
+</small>
+
+## 推測統計
+標本（sample）から母集団（population）の特徴を推測する
+- 推測統計は、母集団（population）に興味がある。  
+<small>
+例). アンケートの結果をもとに、成人男性の平均年収はいくらか考える
+</small>
