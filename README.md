@@ -10,9 +10,22 @@
 - 横軸は Data の**区間**で切られている
 - bin を使ってその区間の度数（frequency）を表す。
 
+### Histgram で連続変数の分布を描画する
+```python
+sns.displot(a, kde=Flase)
+# a: Data array
+```
+
 ## 棒 Group（bar chart）
 - 棒を使った Graph の総称
 - Category 変数の分布を表すのに使用する。
 - 各棒の区間には間隔がある。
 - 横軸は Category 変数のとりうる値
 - 棒を使ってその値の度数（frequency）を表す
+
+### 棒 Graph で Category 変数の分布を描画する
+```python
+sns.catplot(x, data, kind='count')
+# x: x 軸にする Category 変数の名前
+# data: Category 変数を含む DataFrame
+```
