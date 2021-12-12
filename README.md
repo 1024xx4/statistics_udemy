@@ -44,3 +44,9 @@ Data の特徴を記述する（例: 平均値, 中央値）
 <small>
 例). アンケートの結果をもとに、成人男性の平均年収はいくらか考える
 </small>
+
+## 代表値
+Data を一つの値で表したい
+### 平均（mean）
+[平均値（mean）| Udemy](https://boostnote.io/shared/e8b90994-1365-4402-b5fe-d2ae81a1a25b)  
+<small>※ 数式が発生するので Boostnote に整理する</small>
