@@ -9,6 +9,7 @@ jupyter = "*"
 numpy = "*"
 matplotlib = "*"
 seaborn = "*"
+scipy = "*"
 
 [dev-packages]
 
