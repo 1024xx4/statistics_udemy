@@ -102,3 +102,14 @@ Data のばらつき
 
 #### 箱ひげ図
 四分位数範囲を図で表すのに便利な図。
+
+### 平均偏差（MD: mean deviation）
+- 平均（もしくは中央値）からの偏差の絶対値の平均
+- 全ての Data を使うので、範囲や四分位数より散布度としては適している
+- 絶対値が扱いにくい
+#### 数式
+https://boostnote.io/shared/7bd21032-186a-4aff-bbd2-28a5c18dac8c
+
+### [分散（variance）](https://boostnote.io/shared/b499ea1e-9798-4fe6-8051-0cf6a0c55b7c)
+
+### [標準偏差（標準偏差（standard deviation））](https://boostnote.io/shared/8fe0055c-b794-4751-838e-8d1f9ad27f1a)
