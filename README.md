@@ -140,3 +140,24 @@ Data の散らばり具合を確認する
 | 標準偏差 | 分散の平方根                     | 分散の幣後根をとることで尺度を合わせた。   |
 
 統計学は、Story を理解しながら学ぶことが大事。１つ１つを理解することができる、飛ばして分散とかにいくと何故、そうなっているのか理解できない。
+
+# ２変数間の記述統計
+## 共分散(covariance)
+連続変数間の相関関係の強さ
+
+## 相関係数
+連続変数間の相関関係の強さを標準化したもの
+
+## 連関係数
+Category 変数間の相関
+
+## 確率とは（probability）とは
+ある試行を同じ条件で何度も繰り返した時にある事象が起こる相対頻度の極限値  
+https://boostnote.io/shared/b59c773c-b33d-4b32-b96b-b15f633883b3
+
+
+## 確率変数（random variable）
+https://boostnote.io/shared/47b8d481-aa33-4d41-b9ea-94e95d6fac39
+
+## 確率分布（probability 
+https://boostnote.io/shared/47b8d481-aa33-4d41-b9ea-94e95d6fac39）
