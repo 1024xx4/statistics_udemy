@@ -167,3 +167,7 @@ https://boostnote.io/shared/2b8fbd20-26f7-48f6-b550-e622ffeeef1c
 
 ## 累積分布関数（CDF: Cumulative Distribution Function）
 https://boostnote.io/shared/0b44086b-ade0-4b4a-b336-c40db72e64b4
+
+## 正規分布（normal distribution）
+https://boostnote.io/shared/065a81be-9cd9-4452-a7bf-79f9f8be56f7
+
