@@ -161,3 +161,9 @@ https://boostnote.io/shared/47b8d481-aa33-4d41-b9ea-94e95d6fac39
 
 ## 確率分布（probability 
 https://boostnote.io/shared/47b8d481-aa33-4d41-b9ea-94e95d6fac39）
+
+## 確率密度と確率
+https://boostnote.io/shared/2b8fbd20-26f7-48f6-b550-e622ffeeef1c
+
+## 累積分布関数（CDF: Cumulative Distribution Function）
+https://boostnote.io/shared/0b44086b-ade0-4b4a-b336-c40db72e64b4
