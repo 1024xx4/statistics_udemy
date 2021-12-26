@@ -171,3 +171,15 @@ https://boostnote.io/shared/0b44086b-ade0-4b4a-b336-c40db72e64b4
 ## 正規分布（normal distribution）
 https://boostnote.io/shared/065a81be-9cd9-4452-a7bf-79f9f8be56f7
 
+## 確率分布まとめ
+| 用語                                            | 概要                                  |
+|-----------------------------------------------|-------------------------------------|
+| 確率変数                                          | 確率的に変動する変数のこと。変数の値とそれぞれの確率が連動している変数 |
+| 離散型確率分布                                       | とびとびの値の分布                           |
+| 確率質量関数(PMF: probability Mass Function)        | 離散型確率分布を表す関数                        |
+| 連続型確率分布                                       | 連続している値の分布                          |
+| 確率密度関数（PDF: Probability Density Function      | 連続型確率分布を表す関数                        |
+| 累積分布関数（CDF: Cumulative Distribution Function） | 連続型確率分布の値を累積にして表した関数                |
+| Kernel 密度推定(KDE: Kernel Density Estimation)   | 手持ちの Data から確率密度関数（確率分布）を推定する方法     |
+
+※ 確率分布は、「Data の生成装置」のような考え方ができる。
