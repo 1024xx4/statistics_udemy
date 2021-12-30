@@ -10,6 +10,7 @@ numpy = "*"
 matplotlib = "*"
 seaborn = "*"
 scipy = "*"
+sklearn = "*"
 
 [dev-packages]
 
